@@ -17,7 +17,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 **Query:**
 
-[1_customer_segmentation.sql](/1_customer_segmentation.sql)
+[Customer segmentation](/1_customer_segmentation.sql)
 
 **Visualization:**
 
@@ -40,7 +40,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 **Query:**
 
-[2_cohort_analysis.sql](/2_cohort_analysis.sql)
+[Cohort Analysis](/2_cohort_analysis.sql)
 
 **Visualization:**
 
@@ -63,11 +63,11 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 **Query:**
 
-[Retention analysis](/3_retention_analysis.sql)
+[Retention Analysis](/3_retention_analysis.sql)
 
 **Visualization:**
 
-![Retention analysis](Images/3_Retention_analysis.png)
+![Retention Analysis](Images/3_Retention_analysis.png)
 
 **Key Findings:**
 - Cohort churn stabilizes at ~90% after 2-3 years, indicating a predictable long-term retention pattern.
